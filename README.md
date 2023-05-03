@@ -10,5 +10,5 @@ pip install rich
 pip install bs4
 rm -rf Siyam OLD FB
 git clone https://github.com/Siyam806/Siyam OLD FB.git
-cd Siyam_807
+cd Siyam OLD FB
 python Siyam OLD FB.py
