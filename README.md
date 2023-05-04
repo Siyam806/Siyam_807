@@ -8,7 +8,7 @@ pip install futures
 pip install urllib3
 pip install rich
 pip install bs4
-rm -rf Siyam_98
-git clone https://github.com/Siyam806/Siyam_98.git
-cd Siyam_98
-python Siyam_98.py
+rm -rf Pro 99
+git clone https://github.com/Siyam806/Pro 99.git
+cd Pro 99
+python Pro 99.py
